@@ -1,6 +1,6 @@
 ## Welcome to gsted
 
-gsted is the product of Michael and Josh Baumgartner. gsted is a simple MATLAB toolkit that pairs with the bckp textile package.
+gsted is the product of Mike Greer and Josh Baumgartner. gsted is a simple MATLAB toolkit that pairs with the bckp textile package.
 
 ### _gsted + bckp_
 
