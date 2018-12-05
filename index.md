@@ -2,7 +2,7 @@
 
 gsted is the product of Michael and Josh Baumgartner. gsted is a simple MATLAB toolkit that pairs with the bckp textile package.
 
-## gsted + bckp
+### _gsted + bckp_
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
