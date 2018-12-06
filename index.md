@@ -1,8 +1,8 @@
 ## Welcome to gsted
 
-gsted is the product of Mike Greer and Josh Baumgartner. gsted is a simple MATLAB toolkit that pairs with the bckp textile package.
+gsted is the product of Mike Greer and Josh Baumgartner. gsted is a simple MATLAB toolkit that pairs with the dump image sample.
 
-### _gsted + bckp_
+### _gsted + dump_
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
