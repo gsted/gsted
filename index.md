@@ -8,7 +8,13 @@ gsted is a MATLAB toolkit for object overlay by Josh Baumgartner, Michael Greer,
 
 Text text text text text text text text.
 
+Hats Pack 1
+
 ![](https://github.com/gsted/gsted/blob/master/Hats/onepiece.png)
+![](https://github.com/gsted/gsted/blob/master/Hats/cowboy.png)
+![](https://github.com/gsted/gsted/blob/master/Hats/naruto.png)
+![](https://github.com/gsted/gsted/blob/master/Hats/beanie.png)
+![](https://github.com/gsted/gsted/blob/master/Hats/steve.png)
 
 
 
