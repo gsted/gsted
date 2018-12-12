@@ -48,4 +48,5 @@ Creating the algorithm followed a fairly straightforward development cycle. Weâ€
 ![](https://github.com/gsted/gsted/blob/master/output1.png)
 ![](https://github.com/gsted/gsted/blob/master/output2.png)
 ![](https://github.com/gsted/gsted/blob/master/output3.png)
+
 That's all folks.
