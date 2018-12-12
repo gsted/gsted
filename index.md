@@ -14,7 +14,7 @@ It would use object properties along with predefined conditions (forward-facing 
 
 So, to address our initially proposed idea - it can still be seen in our work. This project was always going to be inspired by things like Photo Booth, but an opportunity presented itself in the form of tracking.js
 
-The ![tracking.js](https://trackingjs.com/tracking.js) library offers face detection that, if licensed, could have worked with our algorithms to enable execution at a given frame - that is, if we were able to build our code using JavaScript. 
+The [tracking.js](https://trackingjs.com/tracking.js) library offers face detection that, if licensed, could have worked with our algorithms to enable execution at a given frame - that is, if we were able to build our code using JavaScript. 
 
 That’s a venture for another day.
 
