@@ -30,17 +30,10 @@ Creating the algorithm followed a fairly straightforward development cycle. Weâ€
 
 ## Implementation
 
-1. Detection of unique rectangles in master image.
-a. Detect by searching for specific color value. 
-2. Extraction of properties from these rectangles.
-  a. Extraction of angle from horizontal.
-  b. Extraction of length of the long axis of rectangle.
-3. Transforming overlay images based on these properties.
-  a. Tilting overlay image based on angle property.
-  b. Resizing overlay image based on length of long axis.
-4. Obtain burn point as position to burn overlay image onto master image
-  a. Extract burn point from master as center of extracted unique rectangle
-  b. Extract burn point from overlay image as colored dot place on this image.
+1. Detection of unique rectangles in master image: a. Detect by searching for specific color value. 
+2. Extraction of properties from these rectangles: a. Extraction of angle from horizontal. b. Extraction of length of the long axis of rectangle.
+3. Transforming overlay images based on these properties: a. Tilting overlay image based on angle property. b. Resizing overlay image based on length of long axis.
+4. Obtain burn point as position to burn overlay image onto master image: a. Extract burn point from master as center of extracted unique rectangle. b. Extract burn point from overlay image as colored dot place on this image.
 5. Burn the overlay image onto the master image at this burn point
 6. Repeat frame by frame in a video.
 
