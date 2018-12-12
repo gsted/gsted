@@ -39,8 +39,6 @@ Creating the algorithm followed a fairly straightforward development cycle. Weâ€
 
 ## Results
 
-Text text text text text text text text.
-
 ### Hats Pack 1
 
 ![](https://github.com/gsted/gsted/blob/master/Hats/hats.png)
