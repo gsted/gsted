@@ -45,5 +45,9 @@ Text text text text text text text text.
 
 ![](https://github.com/gsted/gsted/blob/master/Hats/hats.png)
 
+### Sample Output
+
+![](https://github.com/gsted/gsted/blob/master/Hats/hats.png)
+
 
 
