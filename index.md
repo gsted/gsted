@@ -1,4 +1,4 @@
-## Welcome to gsted
+# Welcome to gsted
 
 gsted is a MATLAB function for object overlay.
 
@@ -6,24 +6,24 @@ gsted is a MATLAB function for object overlay.
 
 [ZIP Archive](gsted.zip)
 
-### The Motivation
+## The Motivation
 
 Text text text text text text text text.
 
-### Our Aproach
+## Our Aproach
 
 Text text text text text text text text.
 
-### Implementation
+## Implementation
 
 Text text text text text text text text.
 
-# Hats Pack 1
+### Hats Pack 1
 
 ![](https://github.com/gsted/gsted/blob/master/Hats/hats.png)
 
 
-### Challenges & Results
+## Challenges & Results
 
 Text text text text text text text text.
 
