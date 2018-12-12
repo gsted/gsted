@@ -18,7 +18,7 @@ Text text text text text text text text.
 
 Text text text text text text text text.
 
-Hats Pack 1
+# Hats Pack 1
 
 ![](https://github.com/gsted/gsted/blob/master/Hats/hats.png)
 
