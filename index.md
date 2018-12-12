@@ -4,7 +4,7 @@ gsted is a MATLAB function for object overlay.
 
 ![](https://github.com/gsted/gsted/blob/master/gsted.png)
 
-[Download](gsted/gsted/blob/master/gsted.zip)
+[ZIP Archive](gsted.zip)
 
 ### Text text
 
