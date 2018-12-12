@@ -31,7 +31,7 @@ Creating the algorithm followed a fairly straightforward development cycle. Weâ€
 ## Implementation
 
 1. Detection of unique rectangles in master image.
-  a. Detect by searching for specific color value. 
+a. Detect by searching for specific color value. 
 2. Extraction of properties from these rectangles.
   a. Extraction of angle from horizontal.
   b. Extraction of length of the long axis of rectangle.
