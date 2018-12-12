@@ -12,11 +12,11 @@ Text text text text text text text text.
 
 Hats Pack 1
 
-![](https://github.com/gsted/gsted/blob/master/Hats/onepiece.png)
-![](https://github.com/gsted/gsted/blob/master/Hats/cowboy.png)
-![](https://github.com/gsted/gsted/blob/master/Hats/naruto.png)
-![](https://github.com/gsted/gsted/blob/master/Hats/beanie.png)
-![](https://github.com/gsted/gsted/blob/master/Hats/steve.png)
+![Hat 1](https://github.com/gsted/gsted/blob/master/Hats/onepiece.png)
+![Hat 2](https://github.com/gsted/gsted/blob/master/Hats/cowboy.png)
+![Hat 3](https://github.com/gsted/gsted/blob/master/Hats/naruto.png)
+![Hat 4](https://github.com/gsted/gsted/blob/master/Hats/beanie.png)
+![Hat 5](https://github.com/gsted/gsted/blob/master/Hats/steve.png)
 
 
 
